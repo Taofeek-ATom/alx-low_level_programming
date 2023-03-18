@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - this is the main
-* Return : 0 always as positive
+* Return: 0 always as positive
 */
 int main(void)
 {
