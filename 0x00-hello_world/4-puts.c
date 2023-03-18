@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
-* put - using function put
-* return:  value (0) sucees;
-* main - entry space
+* main - Using the put function
+* Return : always 0
 */
 int main(void)
 {
