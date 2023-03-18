@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - put "Programming is like a building a multinlingual puzzle"
-* return : 0
+* main - Using the function put
+* Return : 0 always as positive
 */
 int main(void)
 {
