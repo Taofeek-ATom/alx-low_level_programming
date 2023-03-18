@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - Using the put function
-* Return : always 0
+* main - put "Programming is like a building a multinlingual puzzle"
+* return : 0
 */
 int main(void)
 {
